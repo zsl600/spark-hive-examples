@@ -1,0 +1,1345 @@
+period,region,con,arv_count
+2013-01,Americas,Canada,13080
+2013-01,Americas,USA,48815
+2013-01,Americas,Other Countries in Americas,6742
+2013-01,Asia,Brunei Darussalam,4709
+2013-01,Asia,Indonesia,257842
+2013-01,Asia,Malaysia,70860
+2013-01,Asia,Myanmar,7096
+2013-01,Asia,Philippines,48667
+2013-01,Asia,Thailand,29867
+2013-01,Asia,Vietnam,22569
+2013-01,Asia,Other Countries in Southeast Asia,3151
+2013-01,Asia,China,209373
+2013-01,Asia,Taiwan,33083
+2013-01,Asia,Japan,67467
+2013-01,Asia,South Korea,55775
+2013-01,Asia,Other Countries in North Asia,1243
+2013-01,Asia,Bangladesh,10671
+2013-01,Asia,India,79046
+2013-01,Asia,Nepal,1654
+2013-01,Asia,Pakistan,2128
+2013-01,Asia,Sri Lanka,7724
+2013-01,Asia,Other Countries in South Asia,816
+2013-01,Asia,Iran,940
+2013-01,Asia,Israel,1390
+2013-01,Asia,Kuwait,345
+2013-01,Asia,Saudi Arabia,1627
+2013-01,Asia,United Arab Emirates,961
+2013-01,Asia,Other Countries in West Asia,1164
+2013-01,Europe,Austria,2683
+2013-01,Europe,Belgium &  Luxembourg,2194
+2013-01,Europe,Denmark,4162
+2013-01,Europe,Finland,4175
+2013-01,Europe,France,15830
+2013-01,Europe,Germany,24858
+2013-01,Europe,Greece,773
+2013-01,Europe,Italy,7253
+2013-01,Europe,Netherlands,8611
+2013-01,Europe,Norway,3408
+2013-01,Europe,Poland,2722
+2013-01,Europe,Rep of Ireland,2832
+2013-01,Europe,Russian Federation (CIS),12959
+2013-01,Europe,Spain,2442
+2013-01,Europe,Sweden,7441
+2013-01,Europe,Switzerland,6503
+2013-01,Europe,Turkey,2410
+2013-01,Europe,UK,53148
+2013-01,Europe,Other Countries in Eastern Europe,10695
+2013-01,Europe,Other Countries in Western Europe,1411
+2013-01,Oceania,Australia,105975
+2013-01,Oceania,New Zealand,12646
+2013-01,Oceania,Other Countries in Oceania,762
+2013-01,Africa,Egypt,384
+2013-01,Africa,Mauritius,967
+2013-01,Africa,South Africa (Rep of),3589
+2013-01,Africa,Other Countries in Africa,1853
+2013-01,Not Stated,Not Stated,227
+2013-02,Americas,Canada,13029
+2013-02,Americas,USA,45616
+2013-02,Americas,Other Countries in Americas,5252
+2013-02,Asia,Brunei Darussalam,3372
+2013-02,Asia,Indonesia,199047
+2013-02,Asia,Malaysia,72704
+2013-02,Asia,Myanmar,5937
+2013-02,Asia,Philippines,47966
+2013-02,Asia,Thailand,27703
+2013-02,Asia,Vietnam,27810
+2013-02,Asia,Other Countries in Southeast Asia,3177
+2013-02,Asia,China,284433
+2013-02,Asia,Taiwan,38886
+2013-02,Asia,Japan,74067
+2013-02,Asia,South Korea,42831
+2013-02,Asia,Other Countries in North Asia,795
+2013-02,Asia,Bangladesh,7444
+2013-02,Asia,India,65676
+2013-02,Asia,Nepal,1201
+2013-02,Asia,Pakistan,1538
+2013-02,Asia,Sri Lanka,6935
+2013-02,Asia,Other Countries in South Asia,590
+2013-02,Asia,Iran,922
+2013-02,Asia,Israel,1210
+2013-02,Asia,Kuwait,1125
+2013-02,Asia,Saudi Arabia,689
+2013-02,Asia,United Arab Emirates,797
+2013-02,Asia,Other Countries in West Asia,1182
+2013-02,Europe,Austria,2557
+2013-02,Europe,Belgium &  Luxembourg,2033
+2013-02,Europe,Denmark,4170
+2013-02,Europe,Finland,4037
+2013-02,Europe,France,15896
+2013-02,Europe,Germany,25224
+2013-02,Europe,Greece,682
+2013-02,Europe,Italy,5367
+2013-02,Europe,Netherlands,8332
+2013-02,Europe,Norway,3611
+2013-02,Europe,Poland,2835
+2013-02,Europe,Rep of Ireland,2310
+2013-02,Europe,Russian Federation (CIS),6930
+2013-02,Europe,Spain,2558
+2013-02,Europe,Sweden,6040
+2013-02,Europe,Switzerland,5968
+2013-02,Europe,Turkey,2629
+2013-02,Europe,UK,53885
+2013-02,Europe,Other Countries in Eastern Europe,8726
+2013-02,Europe,Other Countries in Western Europe,1264
+2013-02,Oceania,Australia,62201
+2013-02,Oceania,New Zealand,7197
+2013-02,Oceania,Other Countries in Oceania,570
+2013-02,Africa,Egypt,383
+2013-02,Africa,Mauritius,476
+2013-02,Africa,South Africa (Rep of),1861
+2013-02,Africa,Other Countries in Africa,1455
+2013-02,Not Stated,Not Stated,234
+2013-03,Americas,Canada,13762
+2013-03,Americas,USA,52182
+2013-03,Americas,Other Countries in Americas,6168
+2013-03,Asia,Brunei Darussalam,6752
+2013-03,Asia,Indonesia,260210
+2013-03,Asia,Malaysia,88247
+2013-03,Asia,Myanmar,8898
+2013-03,Asia,Philippines,66943
+2013-03,Asia,Thailand,41219
+2013-03,Asia,Vietnam,27010
+2013-03,Asia,Other Countries in Southeast Asia,3195
+2013-03,Asia,China,241266
+2013-03,Asia,Taiwan,23197
+2013-03,Asia,Japan,92442
+2013-03,Asia,South Korea,38859
+2013-03,Asia,Other Countries in North Asia,746
+2013-03,Asia,Bangladesh,9624
+2013-03,Asia,India,76950
+2013-03,Asia,Nepal,1523
+2013-03,Asia,Pakistan,2089
+2013-03,Asia,Sri Lanka,7914
+2013-03,Asia,Other Countries in South Asia,659
+2013-03,Asia,Iran,2483
+2013-03,Asia,Israel,1274
+2013-03,Asia,Kuwait,363
+2013-03,Asia,Saudi Arabia,1156
+2013-03,Asia,United Arab Emirates,1345
+2013-03,Asia,Other Countries in West Asia,1338
+2013-03,Europe,Austria,2768
+2013-03,Europe,Belgium &  Luxembourg,2758
+2013-03,Europe,Denmark,4105
+2013-03,Europe,Finland,3607
+2013-03,Europe,France,19567
+2013-03,Europe,Germany,33412
+2013-03,Europe,Greece,855
+2013-03,Europe,Italy,6700
+2013-03,Europe,Netherlands,9125
+2013-03,Europe,Norway,5028
+2013-03,Europe,Poland,2938
+2013-03,Europe,Rep of Ireland,2973
+2013-03,Europe,Russian Federation (CIS),8189
+2013-03,Europe,Spain,3590
+2013-03,Europe,Sweden,5906
+2013-03,Europe,Switzerland,6273
+2013-03,Europe,Turkey,1922
+2013-03,Europe,UK,63467
+2013-03,Europe,Other Countries in Eastern Europe,8705
+2013-03,Europe,Other Countries in Western Europe,1910
+2013-03,Oceania,Australia,80691
+2013-03,Oceania,New Zealand,9267
+2013-03,Oceania,Other Countries in Oceania,734
+2013-03,Africa,Egypt,398
+2013-03,Africa,Mauritius,594
+2013-03,Africa,South Africa (Rep of),3545
+2013-03,Africa,Other Countries in Africa,1769
+2013-03,Not Stated,Not Stated,281
+2013-04,Americas,Canada,11428
+2013-04,Americas,USA,44394
+2013-04,Americas,Other Countries in Americas,6553
+2013-04,Asia,Brunei Darussalam,3484
+2013-04,Asia,Indonesia,220210
+2013-04,Asia,Malaysia,75222
+2013-04,Asia,Myanmar,13134
+2013-04,Asia,Philippines,77386
+2013-04,Asia,Thailand,50881
+2013-04,Asia,Vietnam,30492
+2013-04,Asia,Other Countries in Southeast Asia,5351
+2013-04,Asia,China,254274
+2013-04,Asia,Taiwan,24855
+2013-04,Asia,Japan,58235
+2013-04,Asia,South Korea,33458
+2013-04,Asia,Other Countries in North Asia,553
+2013-04,Asia,Bangladesh,9797
+2013-04,Asia,India,81090
+2013-04,Asia,Nepal,1276
+2013-04,Asia,Pakistan,1982
+2013-04,Asia,Sri Lanka,13087
+2013-04,Asia,Other Countries in South Asia,642
+2013-04,Asia,Iran,759
+2013-04,Asia,Israel,1082
+2013-04,Asia,Kuwait,367
+2013-04,Asia,Saudi Arabia,696
+2013-04,Asia,United Arab Emirates,1597
+2013-04,Asia,Other Countries in West Asia,1235
+2013-04,Europe,Austria,1871
+2013-04,Europe,Belgium &  Luxembourg,2104
+2013-04,Europe,Denmark,2759
+2013-04,Europe,Finland,2476
+2013-04,Europe,France,17271
+2013-04,Europe,Germany,20825
+2013-04,Europe,Greece,602
+2013-04,Europe,Italy,5210
+2013-04,Europe,Netherlands,7580
+2013-04,Europe,Norway,3222
+2013-04,Europe,Poland,2179
+2013-04,Europe,Rep of Ireland,2357
+2013-04,Europe,Russian Federation (CIS),6806
+2013-04,Europe,Spain,2778
+2013-04,Europe,Sweden,3864
+2013-04,Europe,Switzerland,6082
+2013-04,Europe,Turkey,1741
+2013-04,Europe,UK,48883
+2013-04,Europe,Other Countries in Eastern Europe,6337
+2013-04,Europe,Other Countries in Western Europe,1501
+2013-04,Oceania,Australia,86789
+2013-04,Oceania,New Zealand,10814
+2013-04,Oceania,Other Countries in Oceania,714
+2013-04,Africa,Egypt,472
+2013-04,Africa,Mauritius,785
+2013-04,Africa,South Africa (Rep of),2852
+2013-04,Africa,Other Countries in Africa,1613
+2013-04,Not Stated,Not Stated,239
+2013-05,Americas,Canada,9913
+2013-05,Americas,USA,40854
+2013-05,Americas,Other Countries in Americas,5023
+2013-05,Asia,Brunei Darussalam,4350
+2013-05,Asia,Indonesia,252870
+2013-05,Asia,Malaysia,87858
+2013-05,Asia,Myanmar,8573
+2013-05,Asia,Philippines,81255
+2013-05,Asia,Thailand,45228
+2013-05,Asia,Vietnam,29953
+2013-05,Asia,Other Countries in Southeast Asia,4239
+2013-05,Asia,China,225801
+2013-05,Asia,Taiwan,22964
+2013-05,Asia,Japan,60044
+2013-05,Asia,South Korea,35663
+2013-05,Asia,Other Countries in North Asia,639
+2013-05,Asia,Bangladesh,9547
+2013-05,Asia,India,127278
+2013-05,Asia,Nepal,1199
+2013-05,Asia,Pakistan,1951
+2013-05,Asia,Sri Lanka,7619
+2013-05,Asia,Other Countries in South Asia,679
+2013-05,Asia,Iran,634
+2013-05,Asia,Israel,1072
+2013-05,Asia,Kuwait,244
+2013-05,Asia,Saudi Arabia,635
+2013-05,Asia,United Arab Emirates,911
+2013-05,Asia,Other Countries in West Asia,1109
+2013-05,Europe,Austria,1857
+2013-05,Europe,Belgium &  Luxembourg,1996
+2013-05,Europe,Denmark,2230
+2013-05,Europe,Finland,1734
+2013-05,Europe,France,16102
+2013-05,Europe,Germany,18022
+2013-05,Europe,Greece,641
+2013-05,Europe,Italy,5443
+2013-05,Europe,Netherlands,7375
+2013-05,Europe,Norway,2037
+2013-05,Europe,Poland,1986
+2013-05,Europe,Rep of Ireland,2297
+2013-05,Europe,Russian Federation (CIS),5811
+2013-05,Europe,Spain,2521
+2013-05,Europe,Sweden,2730
+2013-05,Europe,Switzerland,5361
+2013-05,Europe,Turkey,1191
+2013-05,Europe,UK,38618
+2013-05,Europe,Other Countries in Eastern Europe,5331
+2013-05,Europe,Other Countries in Western Europe,1353
+2013-05,Oceania,Australia,77804
+2013-05,Oceania,New Zealand,11405
+2013-05,Oceania,Other Countries in Oceania,877
+2013-05,Africa,Egypt,303
+2013-05,Africa,Mauritius,513
+2013-05,Africa,South Africa (Rep of),2683
+2013-05,Africa,Other Countries in Africa,1691
+2013-05,Not Stated,Not Stated,265
+2013-06,Americas,Canada,9093
+2013-06,Americas,USA,48299
+2013-06,Americas,Other Countries in Americas,5249
+2013-06,Asia,Brunei Darussalam,6814
+2013-06,Asia,Indonesia,297858
+2013-06,Asia,Malaysia,88061
+2013-06,Asia,Myanmar,7846
+2013-06,Asia,Philippines,59055
+2013-06,Asia,Thailand,33435
+2013-06,Asia,Vietnam,41781
+2013-06,Asia,Other Countries in Southeast Asia,3853
+2013-06,Asia,China,199048
+2013-06,Asia,Taiwan,30320
+2013-06,Asia,Japan,62607
+2013-06,Asia,South Korea,38400
+2013-06,Asia,Other Countries in North Asia,1300
+2013-06,Asia,Bangladesh,10381
+2013-06,Asia,India,106039
+2013-06,Asia,Nepal,1354
+2013-06,Asia,Pakistan,3067
+2013-06,Asia,Sri Lanka,6710
+2013-06,Asia,Other Countries in South Asia,853
+2013-06,Asia,Iran,881
+2013-06,Asia,Israel,1252
+2013-06,Asia,Kuwait,567
+2013-06,Asia,Saudi Arabia,2346
+2013-06,Asia,United Arab Emirates,1529
+2013-06,Asia,Other Countries in West Asia,1922
+2013-06,Europe,Austria,1456
+2013-06,Europe,Belgium &  Luxembourg,1956
+2013-06,Europe,Denmark,2333
+2013-06,Europe,Finland,1820
+2013-06,Europe,France,12220
+2013-06,Europe,Germany,15592
+2013-06,Europe,Greece,681
+2013-06,Europe,Italy,5145
+2013-06,Europe,Netherlands,6914
+2013-06,Europe,Norway,2521
+2013-06,Europe,Poland,1844
+2013-06,Europe,Rep of Ireland,2334
+2013-06,Europe,Russian Federation (CIS),4526
+2013-06,Europe,Spain,2613
+2013-06,Europe,Sweden,2612
+2013-06,Europe,Switzerland,4563
+2013-06,Europe,Turkey,1330
+2013-06,Europe,UK,39595
+2013-06,Europe,Other Countries in Eastern Europe,4754
+2013-06,Europe,Other Countries in Western Europe,1494
+2013-06,Oceania,Australia,83533
+2013-06,Oceania,New Zealand,11949
+2013-06,Oceania,Other Countries in Oceania,953
+2013-06,Africa,Egypt,515
+2013-06,Africa,Mauritius,643
+2013-06,Africa,South Africa (Rep of),3023
+2013-06,Africa,Other Countries in Africa,1855
+2013-06,Not Stated,Not Stated,256
+2013-07,Americas,Canada,10897
+2013-07,Americas,USA,47788
+2013-07,Americas,Other Countries in Americas,5504
+2013-07,Asia,Brunei Darussalam,4416
+2013-07,Asia,Indonesia,263285
+2013-07,Asia,Malaysia,74069
+2013-07,Asia,Myanmar,8562
+2013-07,Asia,Philippines,53339
+2013-07,Asia,Thailand,38813
+2013-07,Asia,Vietnam,47248
+2013-07,Asia,Other Countries in Southeast Asia,4370
+2013-07,Asia,China,302549
+2013-07,Asia,Taiwan,48239
+2013-07,Asia,Japan,74716
+2013-07,Asia,South Korea,44234
+2013-07,Asia,Other Countries in North Asia,1147
+2013-07,Asia,Bangladesh,11381
+2013-07,Asia,India,81926
+2013-07,Asia,Nepal,1381
+2013-07,Asia,Pakistan,1759
+2013-07,Asia,Sri Lanka,7766
+2013-07,Asia,Other Countries in South Asia,469
+2013-07,Asia,Iran,798
+2013-07,Asia,Israel,1268
+2013-07,Asia,Kuwait,224
+2013-07,Asia,Saudi Arabia,587
+2013-07,Asia,United Arab Emirates,788
+2013-07,Asia,Other Countries in West Asia,1010
+2013-07,Europe,Austria,2528
+2013-07,Europe,Belgium &  Luxembourg,3167
+2013-07,Europe,Denmark,4164
+2013-07,Europe,Finland,1434
+2013-07,Europe,France,18507
+2013-07,Europe,Germany,20439
+2013-07,Europe,Greece,715
+2013-07,Europe,Italy,6350
+2013-07,Europe,Netherlands,11197
+2013-07,Europe,Norway,3517
+2013-07,Europe,Poland,1757
+2013-07,Europe,Rep of Ireland,2770
+2013-07,Europe,Russian Federation (CIS),5084
+2013-07,Europe,Spain,4260
+2013-07,Europe,Sweden,3089
+2013-07,Europe,Switzerland,8638
+2013-07,Europe,Turkey,1353
+2013-07,Europe,UK,47581
+2013-07,Europe,Other Countries in Eastern Europe,5497
+2013-07,Europe,Other Countries in Western Europe,1820
+2013-07,Oceania,Australia,104365
+2013-07,Oceania,New Zealand,16221
+2013-07,Oceania,Other Countries in Oceania,674
+2013-07,Africa,Egypt,239
+2013-07,Africa,Mauritius,710
+2013-07,Africa,South Africa (Rep of),2967
+2013-07,Africa,Other Countries in Africa,1826
+2013-07,Not Stated,Not Stated,255
+2013-08,Americas,Canada,10151
+2013-08,Americas,USA,42017
+2013-08,Americas,Other Countries in Americas,4819
+2013-08,Asia,Brunei Darussalam,4700
+2013-08,Asia,Indonesia,332310
+2013-08,Asia,Malaysia,91021
+2013-08,Asia,Myanmar,7185
+2013-08,Asia,Philippines,56312
+2013-08,Asia,Thailand,33699
+2013-08,Asia,Vietnam,34457
+2013-08,Asia,Other Countries in Southeast Asia,3828
+2013-08,Asia,China,292805
+2013-08,Asia,Taiwan,41534
+2013-08,Asia,Japan,97297
+2013-08,Asia,South Korea,48451
+2013-08,Asia,Other Countries in North Asia,675
+2013-08,Asia,Bangladesh,10341
+2013-08,Asia,India,75112
+2013-08,Asia,Nepal,1441
+2013-08,Asia,Pakistan,2628
+2013-08,Asia,Sri Lanka,10998
+2013-08,Asia,Other Countries in South Asia,781
+2013-08,Asia,Iran,1262
+2013-08,Asia,Israel,1259
+2013-08,Asia,Kuwait,2668
+2013-08,Asia,Saudi Arabia,2778
+2013-08,Asia,United Arab Emirates,3725
+2013-08,Asia,Other Countries in West Asia,3878
+2013-08,Europe,Austria,2738
+2013-08,Europe,Belgium &  Luxembourg,2735
+2013-08,Europe,Denmark,2468
+2013-08,Europe,Finland,1282
+2013-08,Europe,France,24892
+2013-08,Europe,Germany,24250
+2013-08,Europe,Greece,686
+2013-08,Europe,Italy,14181
+2013-08,Europe,Netherlands,9980
+2013-08,Europe,Norway,2376
+2013-08,Europe,Poland,2084
+2013-08,Europe,Rep of Ireland,2624
+2013-08,Europe,Russian Federation (CIS),5478
+2013-08,Europe,Spain,6810
+2013-08,Europe,Sweden,2435
+2013-08,Europe,Switzerland,6459
+2013-08,Europe,Turkey,1620
+2013-08,Europe,UK,50148
+2013-08,Europe,Other Countries in Eastern Europe,6185
+2013-08,Europe,Other Countries in Western Europe,2522
+2013-08,Oceania,Australia,73896
+2013-08,Oceania,New Zealand,12242
+2013-08,Oceania,Other Countries in Oceania,748
+2013-08,Africa,Egypt,545
+2013-08,Africa,Mauritius,667
+2013-08,Africa,South Africa (Rep of),2089
+2013-08,Africa,Other Countries in Africa,2925
+2013-08,Not Stated,Not Stated,323
+2013-09,Americas,Canada,8107
+2013-09,Americas,USA,38008
+2013-09,Americas,Other Countries in Americas,5499
+2013-09,Asia,Brunei Darussalam,3853
+2013-09,Asia,Indonesia,219679
+2013-09,Asia,Malaysia,78457
+2013-09,Asia,Myanmar,7283
+2013-09,Asia,Philippines,50810
+2013-09,Asia,Thailand,33219
+2013-09,Asia,Vietnam,27877
+2013-09,Asia,Other Countries in Southeast Asia,3394
+2013-09,Asia,China,197456
+2013-09,Asia,Taiwan,27609
+2013-09,Asia,Japan,78883
+2013-09,Asia,South Korea,37600
+2013-09,Asia,Other Countries in North Asia,488
+2013-09,Asia,Bangladesh,9655
+2013-09,Asia,India,69855
+2013-09,Asia,Nepal,1126
+2013-09,Asia,Pakistan,1882
+2013-09,Asia,Sri Lanka,7689
+2013-09,Asia,Other Countries in South Asia,517
+2013-09,Asia,Iran,1577
+2013-09,Asia,Israel,1319
+2013-09,Asia,Kuwait,748
+2013-09,Asia,Saudi Arabia,829
+2013-09,Asia,United Arab Emirates,1258
+2013-09,Asia,Other Countries in West Asia,1689
+2013-09,Europe,Austria,2426
+2013-09,Europe,Belgium &  Luxembourg,2278
+2013-09,Europe,Denmark,2528
+2013-09,Europe,Finland,1852
+2013-09,Europe,France,13745
+2013-09,Europe,Germany,23391
+2013-09,Europe,Greece,683
+2013-09,Europe,Italy,6290
+2013-09,Europe,Netherlands,7893
+2013-09,Europe,Norway,2434
+2013-09,Europe,Poland,1610
+2013-09,Europe,Rep of Ireland,2384
+2013-09,Europe,Russian Federation (CIS),5025
+2013-09,Europe,Spain,3975
+2013-09,Europe,Sweden,2580
+2013-09,Europe,Switzerland,6104
+2013-09,Europe,Turkey,1465
+2013-09,Europe,UK,48868
+2013-09,Europe,Other Countries in Eastern Europe,5267
+2013-09,Europe,Other Countries in Western Europe,1538
+2013-09,Oceania,Australia,97015
+2013-09,Oceania,New Zealand,12782
+2013-09,Oceania,Other Countries in Oceania,792
+2013-09,Africa,Egypt,388
+2013-09,Africa,Mauritius,483
+2013-09,Africa,South Africa (Rep of),3353
+2013-09,Africa,Other Countries in Africa,2411
+2013-09,Not Stated,Not Stated,216
+2013-10,Americas,Canada,10934
+2013-10,Americas,USA,43251
+2013-10,Americas,Other Countries in Americas,6503
+2013-10,Asia,Brunei Darussalam,4351
+2013-10,Asia,Indonesia,245814
+2013-10,Asia,Malaysia,76880
+2013-10,Asia,Myanmar,9001
+2013-10,Asia,Philippines,64318
+2013-10,Asia,Thailand,54797
+2013-10,Asia,Vietnam,28087
+2013-10,Asia,Other Countries in Southeast Asia,4225
+2013-10,Asia,China,140104
+2013-10,Asia,Taiwan,23970
+2013-10,Asia,Japan,73814
+2013-10,Asia,South Korea,42630
+2013-10,Asia,Other Countries in North Asia,643
+2013-10,Asia,Bangladesh,9705
+2013-10,Asia,India,78614
+2013-10,Asia,Nepal,1721
+2013-10,Asia,Pakistan,2200
+2013-10,Asia,Sri Lanka,7478
+2013-10,Asia,Other Countries in South Asia,723
+2013-10,Asia,Iran,1064
+2013-10,Asia,Israel,1285
+2013-10,Asia,Kuwait,870
+2013-10,Asia,Saudi Arabia,1911
+2013-10,Asia,United Arab Emirates,1704
+2013-10,Asia,Other Countries in West Asia,1713
+2013-10,Europe,Austria,2153
+2013-10,Europe,Belgium &  Luxembourg,2377
+2013-10,Europe,Denmark,3375
+2013-10,Europe,Finland,2542
+2013-10,Europe,France,16064
+2013-10,Europe,Germany,24080
+2013-10,Europe,Greece,741
+2013-10,Europe,Italy,6005
+2013-10,Europe,Netherlands,8994
+2013-10,Europe,Norway,3010
+2013-10,Europe,Poland,1777
+2013-10,Europe,Rep of Ireland,2614
+2013-10,Europe,Russian Federation (CIS),7093
+2013-10,Europe,Spain,3671
+2013-10,Europe,Sweden,4117
+2013-10,Europe,Switzerland,7464
+2013-10,Europe,Turkey,3117
+2013-10,Europe,UK,49033
+2013-10,Europe,Other Countries in Eastern Europe,6647
+2013-10,Europe,Other Countries in Western Europe,1609
+2013-10,Oceania,Australia,89999
+2013-10,Oceania,New Zealand,11951
+2013-10,Oceania,Other Countries in Oceania,917
+2013-10,Africa,Egypt,609
+2013-10,Africa,Mauritius,589
+2013-10,Africa,South Africa (Rep of),2531
+2013-10,Africa,Other Countries in Africa,2146
+2013-10,Not Stated,Not Stated,211
+2013-11,Americas,Canada,11402
+2013-11,Americas,USA,43566
+2013-11,Americas,Other Countries in Americas,5334
+2013-11,Asia,Brunei Darussalam,5869
+2013-11,Asia,Indonesia,238982
+2013-11,Asia,Malaysia,107570
+2013-11,Asia,Myanmar,7691
+2013-11,Asia,Philippines,58201
+2013-11,Asia,Thailand,31849
+2013-11,Asia,Vietnam,26887
+2013-11,Asia,Other Countries in Southeast Asia,4356
+2013-11,Asia,China,145120
+2013-11,Asia,Taiwan,23095
+2013-11,Asia,Japan,77914
+2013-11,Asia,South Korea,42620
+2013-11,Asia,Other Countries in North Asia,917
+2013-11,Asia,Bangladesh,10007
+2013-11,Asia,India,80113
+2013-11,Asia,Nepal,1292
+2013-11,Asia,Pakistan,1685
+2013-11,Asia,Sri Lanka,6979
+2013-11,Asia,Other Countries in South Asia,734
+2013-11,Asia,Iran,902
+2013-11,Asia,Israel,1150
+2013-11,Asia,Kuwait,305
+2013-11,Asia,Saudi Arabia,798
+2013-11,Asia,United Arab Emirates,1030
+2013-11,Asia,Other Countries in West Asia,1274
+2013-11,Europe,Austria,2432
+2013-11,Europe,Belgium &  Luxembourg,2497
+2013-11,Europe,Denmark,2839
+2013-11,Europe,Finland,3556
+2013-11,Europe,France,14724
+2013-11,Europe,Germany,23673
+2013-11,Europe,Greece,738
+2013-11,Europe,Italy,6466
+2013-11,Europe,Netherlands,8172
+2013-11,Europe,Norway,3264
+2013-11,Europe,Poland,2555
+2013-11,Europe,Rep of Ireland,2312
+2013-11,Europe,Russian Federation (CIS),8606
+2013-11,Europe,Spain,3599
+2013-11,Europe,Sweden,4124
+2013-11,Europe,Switzerland,6971
+2013-11,Europe,Turkey,1510
+2013-11,Europe,UK,49815
+2013-11,Europe,Other Countries in Eastern Europe,7933
+2013-11,Europe,Other Countries in Western Europe,1894
+2013-11,Oceania,Australia,72137
+2013-11,Oceania,New Zealand,9654
+2013-11,Oceania,Other Countries in Oceania,1050
+2013-11,Africa,Egypt,379
+2013-11,Africa,Mauritius,1173
+2013-11,Africa,South Africa (Rep of),2206
+2013-11,Africa,Other Countries in Africa,1875
+2013-11,Not Stated,Not Stated,206
+2013-12,Americas,Canada,13638
+2013-12,Americas,USA,46140
+2013-12,Americas,Other Countries in Americas,5817
+2013-12,Asia,Brunei Darussalam,11459
+2013-12,Asia,Indonesia,324307
+2013-12,Asia,Malaysia,119875
+2013-12,Asia,Myanmar,10113
+2013-12,Asia,Philippines,68789
+2013-12,Asia,Thailand,39285
+2013-12,Asia,Vietnam,28325
+2013-12,Asia,Other Countries in Southeast Asia,4012
+2013-12,Asia,China,153499
+2013-12,Asia,Taiwan,20104
+2013-12,Asia,Japan,77565
+2013-12,Asia,South Korea,38615
+2013-12,Asia,Other Countries in North Asia,1169
+2013-12,Asia,Bangladesh,10784
+2013-12,Asia,India,91350
+2013-12,Asia,Nepal,1745
+2013-12,Asia,Pakistan,2075
+2013-12,Asia,Sri Lanka,12248
+2013-12,Asia,Other Countries in South Asia,1139
+2013-12,Asia,Iran,1310
+2013-12,Asia,Israel,1222
+2013-12,Asia,Kuwait,656
+2013-12,Asia,Saudi Arabia,738
+2013-12,Asia,United Arab Emirates,2116
+2013-12,Asia,Other Countries in West Asia,1632
+2013-12,Europe,Austria,2385
+2013-12,Europe,Belgium &  Luxembourg,2391
+2013-12,Europe,Denmark,2858
+2013-12,Europe,Finland,3867
+2013-12,Europe,France,15162
+2013-12,Europe,Germany,24453
+2013-12,Europe,Greece,706
+2013-12,Europe,Italy,5931
+2013-12,Europe,Netherlands,7628
+2013-12,Europe,Norway,2886
+2013-12,Europe,Poland,1664
+2013-12,Europe,Rep of Ireland,2462
+2013-12,Europe,Russian Federation (CIS),9840
+2013-12,Europe,Spain,3103
+2013-12,Europe,Sweden,6534
+2013-12,Europe,Switzerland,7185
+2013-12,Europe,Turkey,1438
+2013-12,Europe,UK,49024
+2013-12,Europe,Other Countries in Eastern Europe,8632
+2013-12,Europe,Other Countries in Western Europe,1764
+2013-12,Oceania,Australia,94751
+2013-12,Oceania,New Zealand,11480
+2013-12,Oceania,Other Countries in Oceania,1109
+2013-12,Africa,Egypt,498
+2013-12,Africa,Mauritius,1412
+2013-12,Africa,South Africa (Rep of),5673
+2013-12,Africa,Other Countries in Africa,2633
+2013-12,Not Stated,Not Stated,208
+2014-01,Americas,Canada,13824
+2014-01,Americas,USA,47714
+2014-01,Americas,Other Countries in Americas,7591
+2014-01,Asia,Brunei Darussalam,4971
+2014-01,Asia,Indonesia,285958
+2014-01,Asia,Malaysia,69521
+2014-01,Asia,Myanmar,8027
+2014-01,Asia,Philippines,48389
+2014-01,Asia,Thailand,32236
+2014-01,Asia,Vietnam,24700
+2014-01,Asia,Other Countries in Southeast Asia,3976
+2014-01,Asia,China,215493
+2014-01,Asia,Taiwan,32151
+2014-01,Asia,Japan,65820
+2014-01,Asia,South Korea,62994
+2014-01,Asia,Other Countries in North Asia,1093
+2014-01,Asia,Bangladesh,10574
+2014-01,Asia,India,72989
+2014-01,Asia,Nepal,1675
+2014-01,Asia,Pakistan,1613
+2014-01,Asia,Sri Lanka,7533
+2014-01,Asia,Other Countries in South Asia,788
+2014-01,Asia,Iran,1139
+2014-01,Asia,Israel,1402
+2014-01,Asia,Kuwait,670
+2014-01,Asia,Saudi Arabia,2216
+2014-01,Asia,United Arab Emirates,955
+2014-01,Asia,Other Countries in West Asia,1461
+2014-01,Europe,Austria,2742
+2014-01,Europe,Belgium &  Luxembourg,2265
+2014-01,Europe,Denmark,4208
+2014-01,Europe,Finland,4695
+2014-01,Europe,France,15328
+2014-01,Europe,Germany,27321
+2014-01,Europe,Greece,848
+2014-01,Europe,Italy,6638
+2014-01,Europe,Netherlands,9358
+2014-01,Europe,Norway,3481
+2014-01,Europe,Poland,2268
+2014-01,Europe,Rep of Ireland,2757
+2014-01,Europe,Russian Federation (CIS),16234
+2014-01,Europe,Spain,3212
+2014-01,Europe,Sweden,7366
+2014-01,Europe,Switzerland,7744
+2014-01,Europe,Turkey,2712
+2014-01,Europe,UK,52412
+2014-01,Europe,Other Countries in Eastern Europe,11488
+2014-01,Europe,Other Countries in Western Europe,1706
+2014-01,Oceania,Australia,113528
+2014-01,Oceania,New Zealand,12579
+2014-01,Oceania,Other Countries in Oceania,735
+2014-01,Africa,Egypt,460
+2014-01,Africa,Mauritius,713
+2014-01,Africa,South Africa (Rep of),3256
+2014-01,Africa,Other Countries in Africa,2054
+2014-01,Not Stated,Not Stated,261
+2014-02,Americas,Canada,13709
+2014-02,Americas,USA,48478
+2014-02,Americas,Other Countries in Americas,5968
+2014-02,Asia,Brunei Darussalam,4034
+2014-02,Asia,Indonesia,220223
+2014-02,Asia,Malaysia,71084
+2014-02,Asia,Myanmar,7595
+2014-02,Asia,Philippines,47228
+2014-02,Asia,Thailand,31739
+2014-02,Asia,Vietnam,32541
+2014-02,Asia,Other Countries in Southeast Asia,4325
+2014-02,Asia,China,239223
+2014-02,Asia,Taiwan,33144
+2014-02,Asia,Japan,74042
+2014-02,Asia,South Korea,54448
+2014-02,Asia,Other Countries in North Asia,796
+2014-02,Asia,Bangladesh,9470
+2014-02,Asia,India,68035
+2014-02,Asia,Nepal,1351
+2014-02,Asia,Pakistan,1441
+2014-02,Asia,Sri Lanka,6446
+2014-02,Asia,Other Countries in South Asia,718
+2014-02,Asia,Iran,1104
+2014-02,Asia,Israel,1586
+2014-02,Asia,Kuwait,1305
+2014-02,Asia,Saudi Arabia,1105
+2014-02,Asia,United Arab Emirates,1012
+2014-02,Asia,Other Countries in West Asia,1613
+2014-02,Europe,Austria,3226
+2014-02,Europe,Belgium &  Luxembourg,2563
+2014-02,Europe,Denmark,4347
+2014-02,Europe,Finland,4839
+2014-02,Europe,France,17312
+2014-02,Europe,Germany,27273
+2014-02,Europe,Greece,742
+2014-02,Europe,Italy,6145
+2014-02,Europe,Netherlands,9104
+2014-02,Europe,Norway,3656
+2014-02,Europe,Poland,2825
+2014-02,Europe,Rep of Ireland,2267
+2014-02,Europe,Russian Federation (CIS),9499
+2014-02,Europe,Spain,3206
+2014-02,Europe,Sweden,5745
+2014-02,Europe,Switzerland,7496
+2014-02,Europe,Turkey,2324
+2014-02,Europe,UK,53732
+2014-02,Europe,Other Countries in Eastern Europe,9968
+2014-02,Europe,Other Countries in Western Europe,1563
+2014-02,Oceania,Australia,63011
+2014-02,Oceania,New Zealand,8026
+2014-02,Oceania,Other Countries in Oceania,594
+2014-02,Africa,Egypt,470
+2014-02,Africa,Mauritius,504
+2014-02,Africa,South Africa (Rep of),1934
+2014-02,Africa,Other Countries in Africa,1843
+2014-02,Not Stated,Not Stated,262
+2014-03,Americas,Canada,14638
+2014-03,Americas,USA,54822
+2014-03,Americas,Other Countries in Americas,7202
+2014-03,Asia,Brunei Darussalam,6039
+2014-03,Asia,Indonesia,245148
+2014-03,Asia,Malaysia,85401
+2014-03,Asia,Myanmar,9855
+2014-03,Asia,Philippines,60354
+2014-03,Asia,Thailand,42657
+2014-03,Asia,Vietnam,30335
+2014-03,Asia,Other Countries in Southeast Asia,3476
+2014-03,Asia,China,194608
+2014-03,Asia,Taiwan,22501
+2014-03,Asia,Japan,91256
+2014-03,Asia,South Korea,43079
+2014-03,Asia,Other Countries in North Asia,680
+2014-03,Asia,Bangladesh,10718
+2014-03,Asia,India,76087
+2014-03,Asia,Nepal,1342
+2014-03,Asia,Pakistan,2004
+2014-03,Asia,Sri Lanka,6103
+2014-03,Asia,Other Countries in South Asia,783
+2014-03,Asia,Iran,3765
+2014-03,Asia,Israel,1332
+2014-03,Asia,Kuwait,384
+2014-03,Asia,Saudi Arabia,1521
+2014-03,Asia,United Arab Emirates,1817
+2014-03,Asia,Other Countries in West Asia,1305
+2014-03,Europe,Austria,3056
+2014-03,Europe,Belgium &  Luxembourg,3000
+2014-03,Europe,Denmark,3748
+2014-03,Europe,Finland,3733
+2014-03,Europe,France,19563
+2014-03,Europe,Germany,32927
+2014-03,Europe,Greece,915
+2014-03,Europe,Italy,7383
+2014-03,Europe,Netherlands,9903
+2014-03,Europe,Norway,3535
+2014-03,Europe,Poland,2331
+2014-03,Europe,Rep of Ireland,2502
+2014-03,Europe,Russian Federation (CIS),9934
+2014-03,Europe,Spain,3678
+2014-03,Europe,Sweden,5407
+2014-03,Europe,Switzerland,7261
+2014-03,Europe,Turkey,1850
+2014-03,Europe,UK,60278
+2014-03,Europe,Other Countries in Eastern Europe,9945
+2014-03,Europe,Other Countries in Western Europe,1823
+2014-03,Oceania,Australia,70301
+2014-03,Oceania,New Zealand,8719
+2014-03,Oceania,Other Countries in Oceania,687
+2014-03,Africa,Egypt,432
+2014-03,Africa,Mauritius,495
+2014-03,Africa,South Africa (Rep of),2604
+2014-03,Africa,Other Countries in Africa,2062
+2014-03,Not Stated,Not Stated,267
+2014-04,Americas,Canada,11174
+2014-04,Americas,USA,42568
+2014-04,Americas,Other Countries in Americas,6564
+2014-04,Asia,Brunei Darussalam,3750
+2014-04,Asia,Indonesia,229813
+2014-04,Asia,Malaysia,75084
+2014-04,Asia,Myanmar,15300
+2014-04,Asia,Philippines,77252
+2014-04,Asia,Thailand,51614
+2014-04,Asia,Vietnam,29292
+2014-04,Asia,Other Countries in Southeast Asia,6058
+2014-04,Asia,China,179757
+2014-04,Asia,Taiwan,26535
+2014-04,Asia,Japan,56409
+2014-04,Asia,South Korea,38675
+2014-04,Asia,Other Countries in North Asia,605
+2014-04,Asia,Bangladesh,9771
+2014-04,Asia,India,84654
+2014-04,Asia,Nepal,1366
+2014-04,Asia,Pakistan,1770
+2014-04,Asia,Sri Lanka,11466
+2014-04,Asia,Other Countries in South Asia,988
+2014-04,Asia,Iran,737
+2014-04,Asia,Israel,1293
+2014-04,Asia,Kuwait,343
+2014-04,Asia,Saudi Arabia,921
+2014-04,Asia,United Arab Emirates,1453
+2014-04,Asia,Other Countries in West Asia,1423
+2014-04,Europe,Austria,2391
+2014-04,Europe,Belgium &  Luxembourg,2742
+2014-04,Europe,Denmark,3266
+2014-04,Europe,Finland,2627
+2014-04,Europe,France,17828
+2014-04,Europe,Germany,24600
+2014-04,Europe,Greece,730
+2014-04,Europe,Italy,6243
+2014-04,Europe,Netherlands,8280
+2014-04,Europe,Norway,4085
+2014-04,Europe,Poland,1651
+2014-04,Europe,Rep of Ireland,2437
+2014-04,Europe,Russian Federation (CIS),7328
+2014-04,Europe,Spain,3917
+2014-04,Europe,Sweden,4378
+2014-04,Europe,Switzerland,8353
+2014-04,Europe,Turkey,1528
+2014-04,Europe,UK,55366
+2014-04,Europe,Other Countries in Eastern Europe,6781
+2014-04,Europe,Other Countries in Western Europe,2252
+2014-04,Oceania,Australia,92241
+2014-04,Oceania,New Zealand,11706
+2014-04,Oceania,Other Countries in Oceania,749
+2014-04,Africa,Egypt,450
+2014-04,Africa,Mauritius,782
+2014-04,Africa,South Africa (Rep of),3609
+2014-04,Africa,Other Countries in Africa,2092
+2014-04,Not Stated,Not Stated,260
+2014-05,Americas,Canada,9977
+2014-05,Americas,USA,39670
+2014-05,Americas,Other Countries in Americas,5304
+2014-05,Asia,Brunei Darussalam,4814
+2014-05,Asia,Indonesia,267541
+2014-05,Asia,Malaysia,79080
+2014-05,Asia,Myanmar,9576
+2014-05,Asia,Philippines,81189
+2014-05,Asia,Thailand,43265
+2014-05,Asia,Vietnam,35963
+2014-05,Asia,Other Countries in Southeast Asia,4972
+2014-05,Asia,China,129506
+2014-05,Asia,Taiwan,27471
+2014-05,Asia,Japan,59639
+2014-05,Asia,South Korea,44112
+2014-05,Asia,Other Countries in North Asia,460
+2014-05,Asia,Bangladesh,9917
+2014-05,Asia,India,123710
+2014-05,Asia,Nepal,1381
+2014-05,Asia,Pakistan,1744
+2014-05,Asia,Sri Lanka,7380
+2014-05,Asia,Other Countries in South Asia,753
+2014-05,Asia,Iran,596
+2014-05,Asia,Israel,1068
+2014-05,Asia,Kuwait,295
+2014-05,Asia,Saudi Arabia,1162
+2014-05,Asia,United Arab Emirates,965
+2014-05,Asia,Other Countries in West Asia,1311
+2014-05,Europe,Austria,1785
+2014-05,Europe,Belgium &  Luxembourg,1994
+2014-05,Europe,Denmark,2034
+2014-05,Europe,Finland,1727
+2014-05,Europe,France,16029
+2014-05,Europe,Germany,17556
+2014-05,Europe,Greece,726
+2014-05,Europe,Italy,4964
+2014-05,Europe,Netherlands,7513
+2014-05,Europe,Norway,2012
+2014-05,Europe,Poland,1650
+2014-05,Europe,Rep of Ireland,2118
+2014-05,Europe,Russian Federation (CIS),6056
+2014-05,Europe,Spain,3033
+2014-05,Europe,Sweden,2865
+2014-05,Europe,Switzerland,5369
+2014-05,Europe,Turkey,1420
+2014-05,Europe,UK,38601
+2014-05,Europe,Other Countries in Eastern Europe,5797
+2014-05,Europe,Other Countries in Western Europe,1430
+2014-05,Oceania,Australia,73203
+2014-05,Oceania,New Zealand,11995
+2014-05,Oceania,Other Countries in Oceania,802
+2014-05,Africa,Egypt,398
+2014-05,Africa,Mauritius,446
+2014-05,Africa,South Africa (Rep of),2174
+2014-05,Africa,Other Countries in Africa,1891
+2014-05,Not Stated,Not Stated,123
+2014-06,Americas,Canada,8616
+2014-06,Americas,USA,45345
+2014-06,Americas,Other Countries in Americas,4699
+2014-06,Asia,Brunei Darussalam,6213
+2014-06,Asia,Indonesia,279509
+2014-06,Asia,Malaysia,88352
+2014-06,Asia,Myanmar,9539
+2014-06,Asia,Philippines,60017
+2014-06,Asia,Thailand,35842
+2014-06,Asia,Vietnam,48670
+2014-06,Asia,Other Countries in Southeast Asia,3990
+2014-06,Asia,China,126451
+2014-06,Asia,Taiwan,26418
+2014-06,Asia,Japan,60610
+2014-06,Asia,South Korea,39593
+2014-06,Asia,Other Countries in North Asia,768
+2014-06,Asia,Bangladesh,11170
+2014-06,Asia,India,100736
+2014-06,Asia,Nepal,1681
+2014-06,Asia,Pakistan,3281
+2014-06,Asia,Sri Lanka,6781
+2014-06,Asia,Other Countries in South Asia,866
+2014-06,Asia,Iran,845
+2014-06,Asia,Israel,1214
+2014-06,Asia,Kuwait,574
+2014-06,Asia,Saudi Arabia,1624
+2014-06,Asia,United Arab Emirates,1321
+2014-06,Asia,Other Countries in West Asia,1825
+2014-06,Europe,Austria,1432
+2014-06,Europe,Belgium &  Luxembourg,1847
+2014-06,Europe,Denmark,2109
+2014-06,Europe,Finland,1707
+2014-06,Europe,France,12665
+2014-06,Europe,Germany,15312
+2014-06,Europe,Greece,676
+2014-06,Europe,Italy,4711
+2014-06,Europe,Netherlands,6395
+2014-06,Europe,Norway,2191
+2014-06,Europe,Poland,1230
+2014-06,Europe,Rep of Ireland,2210
+2014-06,Europe,Russian Federation (CIS),5105
+2014-06,Europe,Spain,2870
+2014-06,Europe,Sweden,2526
+2014-06,Europe,Switzerland,4544
+2014-06,Europe,Turkey,1398
+2014-06,Europe,UK,35755
+2014-06,Europe,Other Countries in Eastern Europe,5251
+2014-06,Europe,Other Countries in Western Europe,1405
+2014-06,Oceania,Australia,75430
+2014-06,Oceania,New Zealand,12143
+2014-06,Oceania,Other Countries in Oceania,834
+2014-06,Africa,Egypt,417
+2014-06,Africa,Mauritius,558
+2014-06,Africa,South Africa (Rep of),2097
+2014-06,Africa,Other Countries in Africa,2021
+2014-06,Not Stated,Not Stated,33
+2014-07,Americas,Canada,10562
+2014-07,Americas,USA,46299
+2014-07,Americas,Other Countries in Americas,5380
+2014-07,Asia,Brunei Darussalam,4483
+2014-07,Asia,Indonesia,300011
+2014-07,Asia,Malaysia,78808
+2014-07,Asia,Myanmar,9416
+2014-07,Asia,Philippines,54246
+2014-07,Asia,Thailand,40526
+2014-07,Asia,Vietnam,55405
+2014-07,Asia,Other Countries in Southeast Asia,4650
+2014-07,Asia,China,247904
+2014-07,Asia,Taiwan,45289
+2014-07,Asia,Japan,75162
+2014-07,Asia,South Korea,49457
+2014-07,Asia,Other Countries in North Asia,943
+2014-07,Asia,Bangladesh,10030
+2014-07,Asia,India,81958
+2014-07,Asia,Nepal,1562
+2014-07,Asia,Pakistan,1744
+2014-07,Asia,Sri Lanka,6456
+2014-07,Asia,Other Countries in South Asia,728
+2014-07,Asia,Iran,998
+2014-07,Asia,Israel,1071
+2014-07,Asia,Kuwait,865
+2014-07,Asia,Saudi Arabia,1093
+2014-07,Asia,United Arab Emirates,1304
+2014-07,Asia,Other Countries in West Asia,1381
+2014-07,Europe,Austria,2771
+2014-07,Europe,Belgium &  Luxembourg,3105
+2014-07,Europe,Denmark,3710
+2014-07,Europe,Finland,1412
+2014-07,Europe,France,17646
+2014-07,Europe,Germany,19293
+2014-07,Europe,Greece,814
+2014-07,Europe,Italy,6215
+2014-07,Europe,Netherlands,9582
+2014-07,Europe,Norway,3337
+2014-07,Europe,Poland,1831
+2014-07,Europe,Rep of Ireland,2667
+2014-07,Europe,Russian Federation (CIS),5629
+2014-07,Europe,Spain,4414
+2014-07,Europe,Sweden,3068
+2014-07,Europe,Switzerland,9095
+2014-07,Europe,Turkey,1462
+2014-07,Europe,UK,44016
+2014-07,Europe,Other Countries in Eastern Europe,6005
+2014-07,Europe,Other Countries in Western Europe,1991
+2014-07,Oceania,Australia,100225
+2014-07,Oceania,New Zealand,15580
+2014-07,Oceania,Other Countries in Oceania,707
+2014-07,Africa,Egypt,279
+2014-07,Africa,Mauritius,728
+2014-07,Africa,South Africa (Rep of),2763
+2014-07,Africa,Other Countries in Africa,2274
+2014-07,Not Stated,Not Stated,50
+2014-08,Americas,Canada,10347
+2014-08,Americas,USA,41355
+2014-08,Americas,Other Countries in Americas,4676
+2014-08,Asia,Brunei Darussalam,3702
+2014-08,Asia,Indonesia,236058
+2014-08,Asia,Malaysia,71561
+2014-08,Asia,Myanmar,8879
+2014-08,Asia,Philippines,55054
+2014-08,Asia,Thailand,37453
+2014-08,Asia,Vietnam,40910
+2014-08,Asia,Other Countries in Southeast Asia,4237
+2014-08,Asia,China,250243
+2014-08,Asia,Taiwan,39147
+2014-08,Asia,Japan,100904
+2014-08,Asia,South Korea,59115
+2014-08,Asia,Other Countries in North Asia,656
+2014-08,Asia,Bangladesh,11822
+2014-08,Asia,India,78089
+2014-08,Asia,Nepal,1705
+2014-08,Asia,Pakistan,2731
+2014-08,Asia,Sri Lanka,10301
+2014-08,Asia,Other Countries in South Asia,872
+2014-08,Asia,Iran,1103
+2014-08,Asia,Israel,1170
+2014-08,Asia,Kuwait,2480
+2014-08,Asia,Saudi Arabia,4540
+2014-08,Asia,United Arab Emirates,4256
+2014-08,Asia,Other Countries in West Asia,4708
+2014-08,Europe,Austria,2695
+2014-08,Europe,Belgium &  Luxembourg,2847
+2014-08,Europe,Denmark,2555
+2014-08,Europe,Finland,1327
+2014-08,Europe,France,23930
+2014-08,Europe,Germany,26812
+2014-08,Europe,Greece,861
+2014-08,Europe,Italy,14546
+2014-08,Europe,Netherlands,10086
+2014-08,Europe,Norway,2061
+2014-08,Europe,Poland,2372
+2014-08,Europe,Rep of Ireland,2504
+2014-08,Europe,Russian Federation (CIS),6415
+2014-08,Europe,Spain,7566
+2014-08,Europe,Sweden,2277
+2014-08,Europe,Switzerland,7295
+2014-08,Europe,Turkey,1882
+2014-08,Europe,UK,49087
+2014-08,Europe,Other Countries in Eastern Europe,6621
+2014-08,Europe,Other Countries in Western Europe,2784
+2014-08,Oceania,Australia,77610
+2014-08,Oceania,New Zealand,12573
+2014-08,Oceania,Other Countries in Oceania,734
+2014-08,Africa,Egypt,647
+2014-08,Africa,Mauritius,677
+2014-08,Africa,South Africa (Rep of),2335
+2014-08,Africa,Other Countries in Africa,3695
+2014-08,Not Stated,Not Stated,67
+2014-09,Americas,Canada,8151
+2014-09,Americas,USA,37259
+2014-09,Americas,Other Countries in Americas,5457
+2014-09,Asia,Brunei Darussalam,4472
+2014-09,Asia,Indonesia,206080
+2014-09,Asia,Malaysia,81469
+2014-09,Asia,Myanmar,8329
+2014-09,Asia,Philippines,49950
+2014-09,Asia,Thailand,31682
+2014-09,Asia,Vietnam,28372
+2014-09,Asia,Other Countries in Southeast Asia,4613
+2014-09,Asia,China,131007
+2014-09,Asia,Taiwan,26045
+2014-09,Asia,Japan,78928
+2014-09,Asia,South Korea,41222
+2014-09,Asia,Other Countries in North Asia,654
+2014-09,Asia,Bangladesh,9577
+2014-09,Asia,India,70538
+2014-09,Asia,Nepal,1632
+2014-09,Asia,Pakistan,1553
+2014-09,Asia,Sri Lanka,7943
+2014-09,Asia,Other Countries in South Asia,713
+2014-09,Asia,Iran,1419
+2014-09,Asia,Israel,1202
+2014-09,Asia,Kuwait,459
+2014-09,Asia,Saudi Arabia,1943
+2014-09,Asia,United Arab Emirates,1055
+2014-09,Asia,Other Countries in West Asia,1349
+2014-09,Europe,Austria,2435
+2014-09,Europe,Belgium &  Luxembourg,2412
+2014-09,Europe,Denmark,2787
+2014-09,Europe,Finland,2046
+2014-09,Europe,France,14010
+2014-09,Europe,Germany,24451
+2014-09,Europe,Greece,886
+2014-09,Europe,Italy,6564
+2014-09,Europe,Netherlands,7591
+2014-09,Europe,Norway,2295
+2014-09,Europe,Poland,2153
+2014-09,Europe,Rep of Ireland,2363
+2014-09,Europe,Russian Federation (CIS),5667
+2014-09,Europe,Spain,4512
+2014-09,Europe,Sweden,2622
+2014-09,Europe,Switzerland,6326
+2014-09,Europe,Turkey,1469
+2014-09,Europe,UK,47786
+2014-09,Europe,Other Countries in Eastern Europe,5932
+2014-09,Europe,Other Countries in Western Europe,1850
+2014-09,Oceania,Australia,90828
+2014-09,Oceania,New Zealand,12223
+2014-09,Oceania,Other Countries in Oceania,768
+2014-09,Africa,Egypt,520
+2014-09,Africa,Mauritius,490
+2014-09,Africa,South Africa (Rep of),2570
+2014-09,Africa,Other Countries in Africa,1962
+2014-09,Not Stated,Not Stated,35
+2014-10,Americas,Canada,10269
+2014-10,Americas,USA,41777
+2014-10,Americas,Other Countries in Americas,6329
+2014-10,Asia,Brunei Darussalam,3988
+2014-10,Asia,Indonesia,224891
+2014-10,Asia,Malaysia,76928
+2014-10,Asia,Myanmar,8928
+2014-10,Asia,Philippines,61390
+2014-10,Asia,Thailand,49626
+2014-10,Asia,Vietnam,29454
+2014-10,Asia,Other Countries in Southeast Asia,3452
+2014-10,Asia,China,159888
+2014-10,Asia,Taiwan,24737
+2014-10,Asia,Japan,75271
+2014-10,Asia,South Korea,47656
+2014-10,Asia,Other Countries in North Asia,736
+2014-10,Asia,Bangladesh,10488
+2014-10,Asia,India,93780
+2014-10,Asia,Nepal,2030
+2014-10,Asia,Pakistan,1612
+2014-10,Asia,Sri Lanka,7433
+2014-10,Asia,Other Countries in South Asia,868
+2014-10,Asia,Iran,930
+2014-10,Asia,Israel,1486
+2014-10,Asia,Kuwait,727
+2014-10,Asia,Saudi Arabia,1842
+2014-10,Asia,United Arab Emirates,1543
+2014-10,Asia,Other Countries in West Asia,1843
+2014-10,Europe,Austria,2068
+2014-10,Europe,Belgium &  Luxembourg,2251
+2014-10,Europe,Denmark,3348
+2014-10,Europe,Finland,2788
+2014-10,Europe,France,16068
+2014-10,Europe,Germany,24249
+2014-10,Europe,Greece,825
+2014-10,Europe,Italy,5874
+2014-10,Europe,Netherlands,7760
+2014-10,Europe,Norway,2479
+2014-10,Europe,Poland,2156
+2014-10,Europe,Rep of Ireland,2364
+2014-10,Europe,Russian Federation (CIS),6821
+2014-10,Europe,Spain,3875
+2014-10,Europe,Sweden,3944
+2014-10,Europe,Switzerland,7965
+2014-10,Europe,Turkey,1880
+2014-10,Europe,UK,48615
+2014-10,Europe,Other Countries in Eastern Europe,7333
+2014-10,Europe,Other Countries in Western Europe,1710
+2014-10,Oceania,Australia,82652
+2014-10,Oceania,New Zealand,10673
+2014-10,Oceania,Other Countries in Oceania,845
+2014-10,Africa,Egypt,585
+2014-10,Africa,Mauritius,522
+2014-10,Africa,South Africa (Rep of),2194
+2014-10,Africa,Other Countries in Africa,1726
+2014-10,Not Stated,Not Stated,55
+2014-11,Americas,Canada,10854
+2014-11,Americas,USA,43666
+2014-11,Americas,Other Countries in Americas,5993
+2014-11,Asia,Brunei Darussalam,4477
+2014-11,Asia,Indonesia,218591
+2014-11,Asia,Malaysia,87483
+2014-11,Asia,Myanmar,8035
+2014-11,Asia,Philippines,56352
+2014-11,Asia,Thailand,31986
+2014-11,Asia,Vietnam,29131
+2014-11,Asia,Other Countries in Southeast Asia,4675
+2014-11,Asia,China,158171
+2014-11,Asia,Taiwan,21720
+2014-11,Asia,Japan,74063
+2014-11,Asia,South Korea,42066
+2014-11,Asia,Other Countries in North Asia,859
+2014-11,Asia,Bangladesh,10108
+2014-11,Asia,India,77512
+2014-11,Asia,Nepal,1407
+2014-11,Asia,Pakistan,1569
+2014-11,Asia,Sri Lanka,8041
+2014-11,Asia,Other Countries in South Asia,819
+2014-11,Asia,Iran,882
+2014-11,Asia,Israel,1585
+2014-11,Asia,Kuwait,305
+2014-11,Asia,Saudi Arabia,1445
+2014-11,Asia,United Arab Emirates,1122
+2014-11,Asia,Other Countries in West Asia,1288
+2014-11,Europe,Austria,2550
+2014-11,Europe,Belgium &  Luxembourg,2684
+2014-11,Europe,Denmark,2880
+2014-11,Europe,Finland,3299
+2014-11,Europe,France,14990
+2014-11,Europe,Germany,23538
+2014-11,Europe,Greece,858
+2014-11,Europe,Italy,6888
+2014-11,Europe,Netherlands,7999
+2014-11,Europe,Norway,2769
+2014-11,Europe,Poland,2875
+2014-11,Europe,Rep of Ireland,2360
+2014-11,Europe,Russian Federation (CIS),7580
+2014-11,Europe,Spain,3975
+2014-11,Europe,Sweden,3960
+2014-11,Europe,Switzerland,7195
+2014-11,Europe,Turkey,1521
+2014-11,Europe,UK,47855
+2014-11,Europe,Other Countries in Eastern Europe,8228
+2014-11,Europe,Other Countries in Western Europe,1674
+2014-11,Oceania,Australia,68607
+2014-11,Oceania,New Zealand,8787
+2014-11,Oceania,Other Countries in Oceania,940
+2014-11,Africa,Egypt,484
+2014-11,Africa,Mauritius,1064
+2014-11,Africa,South Africa (Rep of),2477
+2014-11,Africa,Other Countries in Africa,1934
+2014-11,Not Stated,Not Stated,54
+2014-12,Americas,Canada,12982
+2014-12,Americas,USA,47056
+2014-12,Americas,Other Countries in Americas,6949
+2014-12,Asia,Brunei Darussalam,9967
+2014-12,Asia,Indonesia,316207
+2014-12,Asia,Malaysia,123647
+2014-12,Asia,Myanmar,10001
+2014-12,Asia,Philippines,69313
+2014-12,Asia,Thailand,35254
+2014-12,Asia,Vietnam,30515
+2014-12,Asia,Other Countries in Southeast Asia,3620
+2014-12,Asia,China,159579
+2014-12,Asia,Taiwan,19072
+2014-12,Asia,Japan,78289
+2014-12,Asia,South Korea,43350
+2014-12,Asia,Other Countries in North Asia,1364
+2014-12,Asia,Bangladesh,11567
+2014-12,Asia,India,90300
+2014-12,Asia,Nepal,1759
+2014-12,Asia,Pakistan,2013
+2014-12,Asia,Sri Lanka,9257
+2014-12,Asia,Other Countries in South Asia,1358
+2014-12,Asia,Iran,1124
+2014-12,Asia,Israel,1181
+2014-12,Asia,Kuwait,615
+2014-12,Asia,Saudi Arabia,659
+2014-12,Asia,United Arab Emirates,2233
+2014-12,Asia,Other Countries in West Asia,1671
+2014-12,Europe,Austria,2335
+2014-12,Europe,Belgium &  Luxembourg,2402
+2014-12,Europe,Denmark,2928
+2014-12,Europe,Finland,3450
+2014-12,Europe,France,14053
+2014-12,Europe,Germany,26194
+2014-12,Europe,Greece,867
+2014-12,Europe,Italy,6230
+2014-12,Europe,Netherlands,7761
+2014-12,Europe,Norway,2752
+2014-12,Europe,Poland,2072
+2014-12,Europe,Rep of Ireland,2262
+2014-12,Europe,Russian Federation (CIS),8381
+2014-12,Europe,Spain,3354
+2014-12,Europe,Sweden,5789
+2014-12,Europe,Switzerland,7019
+2014-12,Europe,Turkey,1392
+2014-12,Europe,UK,48061
+2014-12,Europe,Other Countries in Eastern Europe,9309
+2014-12,Europe,Other Countries in Western Europe,1780
+2014-12,Oceania,Australia,88940
+2014-12,Oceania,New Zealand,11362
+2014-12,Oceania,Other Countries in Oceania,850
+2014-12,Africa,Egypt,546
+2014-12,Africa,Mauritius,1469
+2014-12,Africa,South Africa (Rep of),5002
+2014-12,Africa,Other Countries in Africa,3028
+2014-12,Not Stated,Not Stated,51
