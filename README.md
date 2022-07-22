@@ -4,14 +4,21 @@ Code sample for Spark + Hive Metastore + CSV + Delta Lake
 
 ## Getting Started
 
+* Find and replace <postgres_user>
+* Find and replace <postgres_password>
+* Find and replace <bucket_name> with your s3 bucket
+* Setup your AWS credentials in your environment variables
+
 ### Dependencies
 
 * Python3
 * PIP
+* Homebrew
 
 ### Installing pre-requisites
 
 ```
+brew install postgresql
 pip install pyspark==3.2.1
 pip install delta-spark==1.2.1
 wget https://jdbc.postgresql.org/download/postgresql-42.4.0.jar -O aws-java-sdk-bundle.jar
