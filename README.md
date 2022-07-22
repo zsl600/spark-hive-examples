@@ -26,5 +26,6 @@ spark-submit --master local --jars "postgresql.jar,hadoop-aws.jar,aws-java-sdk-b
 ```
 
 * For Spark + Hive + Delta Lake
+```
 spark-submit --master local --jars  "postgresql.jar,hadoop-aws.jar,aws-java-sdk-bundle.jar"  --driver-class-path "postgresql.jar"  --packages io.delta:delta-core_2.12:1.2.1 deltalake.py
 ```
